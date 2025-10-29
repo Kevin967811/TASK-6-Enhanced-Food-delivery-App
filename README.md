@@ -1,5 +1,6 @@
 # TASK-6-Enhanced-Food-delivery-App
 Here in this enhanced version of food delivery app i have changed the color and added functionalities
+After testing my food delivery app prototype with 3 users, I found that the navigation bar was confusing. I changed the color contrast and simplified icons. All users found the new layout easier to use
 
 Old design Figma file link :
 https://www.figma.com/design/QdLtBJk45hea5MXA571ILX/FOOD-DELIVERY-APP?node-id=0-1&t=jhkAHTHH5yVdRKMx-1
